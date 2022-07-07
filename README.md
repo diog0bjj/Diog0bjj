@@ -1,6 +1,6 @@
 👋 Hello devs!  Bem vindo ao meu Perfil no GitHub
                                       
-### Meu nome é Diogo Sales, tenho 20 anos e moro no Rio de Janeiro, Brasil! 
+### Meu nome é Diogo Sales
                                   
 ### Atualmente estudo Programaçao Pelo Vai Na Web com foco em Front-end
 
